@@ -67,7 +67,7 @@ This repository contains the user stories for the **Meditation App** project. Th
 
 ---
 
-### Habits Page
+### Meditation Page
 - **User Story 1: Add a New Meditation**  
   _As a user, I want to add new meditation on the details configuration page, so that I can manage and update my meditation as needed._
 
