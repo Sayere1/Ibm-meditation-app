@@ -7,7 +7,7 @@ This repository contains the user stories for the **Meditation App** project. Th
 2. [Homepage](#homepage)
 3. [Menu](#menu)
 4. [Profile Page](#profile-page)
-5. [Habits Page](#meditation-page)
+5. [Meditation Page](#meditation-page)
 6. [Reports Page](#reports-page)
 7. [Notifications Page](#notifications-page)
 
@@ -32,7 +32,7 @@ This repository contains the user stories for the **Meditation App** project. Th
 - **User Story 2: Display Weekly Progress**  
   _As a user, I want to see my daily progress for each habit on the homepage, so that I can easily monitor my progress._
 
-- **User Story 3: View Completed Habits**  
+- **User Story 3: View Completed Meditation**  
   _As a user, I want to see a section for completed habits on the homepage, so that I can track what I have already achieved._
 
 ---
